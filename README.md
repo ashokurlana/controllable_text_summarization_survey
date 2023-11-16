@@ -14,7 +14,7 @@ You can cite our paper as the following
 }
 ```
 We group the papers according to the controllable aspects as [Length](#length), [Coverage](#coverage), [Style](#style), [Abstractivity](#abstractivity), [Salience](#salience),  [Entity](#entity), [Topic](#topic), [Role](#role), [Diversity](#diversity), [Structure](#structure).
-\
+
 # Length
 | Paper | Datasets Used| 
 | -- | --- |
